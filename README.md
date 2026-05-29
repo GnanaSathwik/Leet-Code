@@ -11,10 +11,12 @@ Note: Most solutions contain only the function/method implementation required by
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GnanaSathwik/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GnanaSathwik/Leet-Code/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/GnanaSathwik/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GnanaSathwik/Leet-Code/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
