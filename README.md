@@ -12,11 +12,13 @@ Note: Most solutions contain only the function/method implementation required by
 | ------- |
 | [0001-two-sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GnanaSathwik/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GnanaSathwik/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GnanaSathwik/Leet-Code/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GnanaSathwik/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GnanaSathwik/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GnanaSathwik/Leet-Code/tree/master/0042-trapping-rain-water) |
@@ -69,4 +71,8 @@ Note: Most solutions contain only the function/method implementation required by
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GnanaSathwik/Leet-Code/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
