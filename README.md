@@ -40,6 +40,7 @@ Note: Most solutions contain only the function/method implementation required by
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GnanaSathwik/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GnanaSathwik/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/GnanaSathwik/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 ## Binary Search
@@ -61,5 +62,10 @@ Note: Most solutions contain only the function/method implementation required by
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GnanaSathwik/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/GnanaSathwik/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GnanaSathwik/Leet-Code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
