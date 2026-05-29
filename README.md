@@ -41,6 +41,7 @@ Note: Most solutions contain only the function/method implementation required by
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GnanaSathwik/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/GnanaSathwik/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Note: Most solutions contain only the function/method implementation required by
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GnanaSathwik/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/GnanaSathwik/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
