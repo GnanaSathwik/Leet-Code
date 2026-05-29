@@ -10,6 +10,7 @@ Note: Most solutions contain only the function/method implementation required by
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/GnanaSathwik/Leet-Code/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
@@ -27,4 +28,8 @@ Note: Most solutions contain only the function/method implementation required by
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GnanaSathwik/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
