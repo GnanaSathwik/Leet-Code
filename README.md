@@ -16,6 +16,7 @@ Note: Most solutions contain only the function/method implementation required by
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/GnanaSathwik/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GnanaSathwik/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GnanaSathwik/Leet-Code/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
@@ -34,4 +35,8 @@ Note: Most solutions contain only the function/method implementation required by
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/GnanaSathwik/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
