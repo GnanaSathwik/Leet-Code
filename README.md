@@ -54,6 +54,7 @@ Note: Most solutions contain only the function/method implementation required by
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/GnanaSathwik/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GnanaSathwik/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
