@@ -75,6 +75,7 @@ Note: Most solutions contain only the function/method implementation required by
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GnanaSathwik/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/GnanaSathwik/Leet-Code/tree/master/0007-reverse-integer) |
 ## Sorting
 |  |
 | ------- |
