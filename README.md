@@ -40,6 +40,7 @@ Note: Most solutions contain only the function/method implementation required by
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GnanaSathwik/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GnanaSathwik/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@ Note: Most solutions contain only the function/method implementation required by
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GnanaSathwik/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/GnanaSathwik/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GnanaSathwik/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
@@ -78,4 +80,8 @@ Note: Most solutions contain only the function/method implementation required by
 | ------- |
 | [0015-3sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/GnanaSathwik/Leet-Code/tree/master/0016-3sum-closest) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/GnanaSathwik/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
