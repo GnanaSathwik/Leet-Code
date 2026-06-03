@@ -16,6 +16,7 @@ Note: Most solutions contain only the function/method implementation required by
 | [0016-3sum-closest](https://github.com/GnanaSathwik/Leet-Code/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GnanaSathwik/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GnanaSathwik/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0149-max-points-on-a-line](https://github.com/GnanaSathwik/Leet-Code/tree/master/0149-max-points-on-a-line) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Note: Most solutions contain only the function/method implementation required by
 | [0001-two-sum](https://github.com/GnanaSathwik/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GnanaSathwik/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GnanaSathwik/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0149-max-points-on-a-line](https://github.com/GnanaSathwik/Leet-Code/tree/master/0149-max-points-on-a-line) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Note: Most solutions contain only the function/method implementation required by
 | ------- |
 | [0002-add-two-numbers](https://github.com/GnanaSathwik/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GnanaSathwik/Leet-Code/tree/master/0007-reverse-integer) |
+| [0149-max-points-on-a-line](https://github.com/GnanaSathwik/Leet-Code/tree/master/0149-max-points-on-a-line) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +90,8 @@ Note: Most solutions contain only the function/method implementation required by
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GnanaSathwik/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/GnanaSathwik/Leet-Code/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
