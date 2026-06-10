@@ -77,12 +77,14 @@ Note: Most solutions contain only the function/method implementation required by
 | [0002-add-two-numbers](https://github.com/GnanaSathwik/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/GnanaSathwik/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/GnanaSathwik/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/GnanaSathwik/Leet-Code/tree/master/0060-permutation-sequence) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GnanaSathwik/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GnanaSathwik/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GnanaSathwik/Leet-Code/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/GnanaSathwik/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/GnanaSathwik/Leet-Code/tree/master/0149-max-points-on-a-line) |
 ## Sorting
 |  |
