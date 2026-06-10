@@ -82,6 +82,7 @@ Note: Most solutions contain only the function/method implementation required by
 | ------- |
 | [0002-add-two-numbers](https://github.com/GnanaSathwik/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GnanaSathwik/Leet-Code/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/GnanaSathwik/Leet-Code/tree/master/0009-palindrome-number) |
 | [0149-max-points-on-a-line](https://github.com/GnanaSathwik/Leet-Code/tree/master/0149-max-points-on-a-line) |
 ## Sorting
 |  |
